@@ -1,0 +1,7 @@
+{
+  "port": 5001,
+  "shared_folder": "shared_folder",
+  "download_folder": "downloads",
+  "cert_file": "cert.pem",
+  "key_file": "key.pem"
+}
